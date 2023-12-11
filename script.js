@@ -23,6 +23,5 @@ function hide_show() {
     }
 }
 
-<script>
+
 alert( 'hello' )
-</script>
