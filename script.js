@@ -23,24 +23,3 @@ function hide_show() {
     }
 }
 
-
-
-
-
-// script.js
-
-function show_hide() {
-  var form12 = document.getElementById("15form");
-  var form24 = document.getElementById("24form");
-
-  form12.style.display = "block";
-  form24.style.display = "none";
-}
-
-function hide_show() {
-  var form12 = document.getElementById("15form");
-  var form24 = document.getElementById("24form");
-
-  form12.style.display = "none";
-  form24.style.display = "block";
-}
