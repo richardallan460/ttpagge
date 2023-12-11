@@ -1,0 +1,5 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="social-icon" alt="trustwallet facebook" title="trustwallet facebook" width="32"  height="32" ><defs><symbol viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" id="social_facebook">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M17.092 32H1.766C.79 32 0 31.21 0 30.234V1.766C0 .791.79 0 1.766 0h28.468C31.209 0 32 .79 32 1.766v28.468c0 .975-.79 1.766-1.766 1.766h-8.155V19.608h4.16l.623-4.83H22.08v-3.083c0-1.398.388-2.351 2.393-2.351l2.557-.001v-4.32c-.442-.058-1.96-.19-3.726-.19-3.687 0-6.212 2.25-6.212 6.384v3.561h-4.17v4.83h4.17V32z" fill="#5a749a"></path>
+  </symbol></defs>
+<use xlink:href="#social_facebook"></use>
+</svg>
